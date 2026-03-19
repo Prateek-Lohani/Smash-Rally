@@ -41,6 +41,6 @@ body {
 }
 
 
-html{
+html,body{
   scroll-behavior: smoooth;
 }
